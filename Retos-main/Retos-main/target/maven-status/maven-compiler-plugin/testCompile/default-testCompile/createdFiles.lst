@@ -1,0 +1,9 @@
+co\edu\taller\creational\ExecutiveReportTest.class
+co\edu\taller\creational\PlatformConfigTest.class
+co\edu\taller\behavioral\ShippingRateStrategyTest.class
+co\edu\taller\structural\ShippingCostTest.class
+co\edu\taller\creational\NotificationFactoryTest.class
+co\edu\taller\structural\CheckoutFacadeTest.class
+co\edu\taller\behavioral\RequestLifecycleTest.class
+co\edu\taller\behavioral\InventoryAlertsTest.class
+co\edu\taller\structural\PaymentGatewayAdapterTest.class
